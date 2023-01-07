@@ -247,6 +247,5 @@ form input {
 .smoke{
     display: flex;
     align-items: center;
-    padding: 10px;
-    margin-left: 50%;
+    justify-content:center;
 }
